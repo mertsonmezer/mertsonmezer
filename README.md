@@ -6,4 +6,4 @@ i work at the intersection of research and production. my focus is retrieval-aug
 
 #### elsewhere
 
-🌐 [mertsonmezer.vercel.app](https://mertsonmezer.vercel.app) &nbsp;·&nbsp; 🎓 [google scholar](https://scholar.google.com/citations?user=xboQo2QAAAAJ&hl=en) &nbsp;·&nbsp; 💼 [linkedin](https://linkedin.com/in/mertsonmezer) &nbsp;·&nbsp; ✉️ [email](mailto:mertsonmezer0106@gmail.com)
+🌐 [mertsonmezer.com](https://mertsonmezer.com) &nbsp;·&nbsp; 🎓 [google scholar](https://scholar.google.com/citations?user=xboQo2QAAAAJ&hl=en) &nbsp;·&nbsp; 💼 [linkedin](https://linkedin.com/in/mertsonmezer) &nbsp;·&nbsp; ✉️ [email](mailto:mertsonmezer0106@gmail.com)
